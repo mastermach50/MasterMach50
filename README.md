@@ -1,16 +1,17 @@
-### Hi there 👋
+# { MasterMach50 }
+![](https://img.shields.io/badge/Me-MasterMach50-blue) ![](https://img.shields.io/github/stars/MasterMach50?color=yellow)
 
-<!--
-**MasterMach50/MasterMach50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width="100" height="100" src="https://avatars.githubusercontent.com/u/64970593?v=4">
 
-Here are some ideas to get you started:
+Hello There! You seem to have reached my profile Readme.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meet Me :
+- Relatively new to programming
+- Knows 
+  - Python
+  - Javascript+HTML+CSS
+  - Lua
+  - Autohotkey
+- Learning
+  - Rust
+> Have a nice day
