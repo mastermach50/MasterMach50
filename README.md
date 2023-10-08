@@ -8,18 +8,22 @@ Hello There! You seem to have reached my profile Readme.
 Meet Me :
 - 5 years of programming
 - No professional experience
-- Knows 
-  - Python
-    <img align="centre" vertical-align="baseline" height="18rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  - Javascript+HTML+CSS
-    <img align="centre" vertical-align="baseline" height="18rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img align="centre" vertical-align="baseline" height="18rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img align="centre" vertical-align="baseline" height="18rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  - Lua
-    <img align="centre" vertical-align="baseline" height="18rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" />  
-  - Autohotkey
-    <img align="centre" vertical-align="baseline" height="18rem" src="https://raw.githubusercontent.com/AutoHotkey/AutoHotkey/e18a857e2d6d57d73643fbdd57d739a88ea499e5/source/resources/icons.svg" />
-- Learning
-  - Rust
-    <img align="centre" vertical-align="baseline" height="18rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
-> Have a nice day
+- Languages
+  - Knows
+    - Python <img style="height:1rem" src="res/python.svg">
+    - JavaScript <img style="height:1rem" src="res/js.svg">
+    - Lua <img style="height:1rem" src="res/lua.svg">
+    - AutoHotKey <img style="height:1rem" src="res/autohotkey.svg">
+  - Learning
+    - Rust <img style="height:1rem" src="res/rust.svg">
+- Frameworks / Applications
+  - Knows
+    - Tauri <img style="height:1rem" src="res/tauri.svg">
+    - Flask <img style="height:1rem" src="res/flask.svg">
+    - Debian  <img style="height:1rem" src="res/debian.svg">
+  - Learning
+    - Yew <img style="height:1rem" src="res/yew.svg">
+    - django <img style="height:1rem" src="res/django.svg">
+    - NixOS  <img style="height:1rem" src="res/nixos.svg">
+
+> Did you really read all of that?
