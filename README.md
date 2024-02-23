@@ -7,7 +7,6 @@ Hello There! You seem to have reached my profile Readme.
 
 Meet Me :
 - 5 years of programming
-- No professional experience
 - Languages
   - Knows
     - Python <img style="height:1rem" src="res/python.svg">
