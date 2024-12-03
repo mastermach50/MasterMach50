@@ -9,6 +9,7 @@ Meet Me 👋:
 - Always learning
 - Avid home row mod user (GACS)
 - Always sleep deprived
+- I have a [blog](https://blog.mathewma3.in)
 - Stuff I use/know:
   <img style="height:2rem" title="Rust" src="https://www.svgrepo.com/show/374056/rust.svg">
   <img style="height:2rem" title="C" src="https://www.svgrepo.com/show/373482/c.svg">
