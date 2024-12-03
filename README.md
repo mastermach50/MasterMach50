@@ -7,7 +7,7 @@ Welcome Traveller! You seem to have reached my README.
 Meet Me 👋:
 - CS undergrad
 - Always learning
-- Avid home row mod user (GACS)
+- Avid home row mod user (GACS__SCAG)
 - Always sleep deprived
 - Stuff I use/know:
   <img style="height:2rem" title="Rust" src="https://www.svgrepo.com/show/374056/rust.svg">
