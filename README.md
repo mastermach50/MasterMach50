@@ -1,28 +1,26 @@
 # { MasterMach50 }<img align="right" width="100" height="100" src="https://avatars.githubusercontent.com/u/64970593?v=4">
 
-![](https://img.shields.io/badge/Me-MasterMach50-blue) ![](https://img.shields.io/github/stars/MasterMach50?color=yellow)
+![Static Badge](https://img.shields.io/badge/Experience-6_years-brightgreen)
 
+Welcome Traveller! You seem to have reached my README.
 
-Hello There! You seem to have reached my profile Readme.
+Meet Me 👋:
+- CS undergrad
+- Always learning
+- Avid home row mod user (GACS)
+- Always sleep deprived
+- Stuff I use/know:
+  <img style="height:2rem" title="Rust" src="https://www.svgrepo.com/show/374056/rust.svg">
+  <img style="height:2rem" title="C" src="https://www.svgrepo.com/show/373482/c.svg">
+  <img style="height:2rem" title="Python" src="https://www.svgrepo.com/show/374016/python.svg">
+  <img style="height:2rem" title="Javascript" src="https://www.svgrepo.com/show/452045/js.svg">
+  <img style="height:2rem" title="Lua" src="https://www.svgrepo.com/show/354020/lua.svg">
+  <img style="height:2rem" title="AutoHotKey" src="https://www.svgrepo.com/show/373451/autohotkey.svg">
+  <img style="height:2rem" title="Debian" src="https://www.svgrepo.com/show/353640/debian.svg">
+  <img style="height:2rem" title="NixOS" src="https://www.svgrepo.com/show/373927/nix.svg">
+  <img style="height:2rem" title="Tauri" src="res/tauri.svg">
+  <img style="height:2rem" title="Django" src="https://www.svgrepo.com/show/373554/django.svg">
+- Stuff I want to learn:
+  <img style="height:2rem" title="Yew" src="res/yew.svg">
 
-Meet Me :
-- 5 years of programming
-- Languages
-  - Knows
-    - Python <img style="height:1rem" src="res/python.svg">
-    - JavaScript <img style="height:1rem" src="res/js.svg">
-    - Lua <img style="height:1rem" src="res/lua.svg">
-    - AutoHotKey <img style="height:1rem" src="res/autohotkey.svg">
-  - Learning
-    - Rust <img style="height:1rem" src="res/rust.svg">
-- Frameworks / Applications
-  - Knows
-    - Tauri <img style="height:1rem" src="res/tauri.svg">
-    - Flask <img style="height:1rem" src="res/flask.svg">
-    - Debian  <img style="height:1rem" src="res/debian.svg">
-  - Learning
-    - Yew <img style="height:1rem" src="res/yew.svg">
-    - django <img style="height:1rem" src="res/django.svg">
-    - NixOS  <img style="height:1rem" src="res/nixos.svg">
-
-> Did you really read all of that?
+> I was not expecting visitors here.
