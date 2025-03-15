@@ -25,3 +25,5 @@ Meet Me 👋:
   <img style="height:2rem" title="Yew" src="res/yew.svg">
 
 > I was not expecting visitors here.
+
+> PGP key [here](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x5e25d65c3ccac3aac0999d8c2660381cbba34bd8)
