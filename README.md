@@ -27,3 +27,5 @@ Meet Me 👋:
 > I was not expecting visitors here.
 
 > PGP key [here](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x5e25d65c3ccac3aac0999d8c2660381cbba34bd8)
+
+<img style="height:10rem" title="Profile Stats" src="https://github-readme-stats.vercel.app/api?username=mastermach50&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"> <img style="height:10rem" title="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mastermach50&theme=tokyonight&show_icons=true&hide_border=false&layout=compact">
